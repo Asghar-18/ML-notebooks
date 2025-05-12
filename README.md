@@ -4,7 +4,7 @@ This repository contains a collection of machine learning notebooks for hands-on
 
 ## Projects
 
-### 📘 1. ASL Gesture Recognition
+### 📘 1. ASL_Pickle_to_TFLite
 Train and convert a hand gesture classification model using ASL (American Sign Language) landmark data.
 
 - Loads dataset from a `.pickle` file
@@ -12,7 +12,7 @@ Train and convert a hand gesture classification model using ASL (American Sign L
 - Saves model in both `.h5` and `.tflite` formats
 - Stores label encoder for decoding predictions during inference
 
-[View Project →](./ASL_Gesture_Recognition)
+[View Project →](./ASL_Pickle_to_TFLite)
 
 ---
 
